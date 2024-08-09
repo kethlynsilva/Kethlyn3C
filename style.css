@@ -1,9 +1,9 @@
 :root{
-    --cor-fundo: #b48bbd ; 
-    --cor-principal: #6e25c0 ;
+    --cor-fundo: #000000 ; 
+    --cor-principal: #5c05be ;
     --cor-secundaria: #9260c8 ; 
-    --cor-destaque:#8e79b2 ; 
-    --cor-texto: #030303 ; 
+    --cor-destaque:#ffffff ; 
+    --cor-texto: #ffffff ; 
 
 }
 
@@ -18,9 +18,9 @@ body {
 
   .caixa-principal{
     background-color: var(--cor-principal);
-    width: 90%;
+    width: 60%;
     text-align: center;
-    padding: 20px;
+    padding: 250px;
   }
 
   h1{
